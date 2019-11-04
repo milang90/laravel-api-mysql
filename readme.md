@@ -1,4 +1,4 @@
-# Api + Node + Express + Mysql
+# Api + Laravel + Express + Mysql
 
 Api sencilla hecha con Laravel y Mysql lista para que sirva de base para hacer tus endpoint para tu proyecto de backend y/o para consumir desde tu aplicación movil 
 
